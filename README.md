@@ -10,7 +10,6 @@ A full-stack **blog application** built with **Node.js**, **Express.js**, **Mong
 - [Tech Stack](#tech-stack)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [License](#license)
 
 ---
 
